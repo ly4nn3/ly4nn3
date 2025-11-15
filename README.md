@@ -28,4 +28,5 @@ I'm Julyanne, a Software Development student at **BYU-Idaho**, estimated to grad
 
 - [💼 LinkedIn](https://www.linkedin.com/in/julyanne-lee/)
 
-Feel free to explore my repositories and follow along as I build more projects. 🚀
+Feel free to explore my repositories and follow along as I build stuff! 🚀
+Pinned below are some of my most recent projects. 📌
