@@ -20,9 +20,10 @@ I'm Julyanne, a Software Development student at **BYU-Idaho**, estimated to grad
 | ✨ JavaScript    |                        |                        |
 | 🔷 TypeScript    |                        |                        |
 
-## 📈 GitHub Stats
+## 📈 Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ly4nn3&theme=tokyonight)
+**Completed**
+- [Simplate](simplate.vercel.app)
 
 ## 🔗 Let's Connect
 
